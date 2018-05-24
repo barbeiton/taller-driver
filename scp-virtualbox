@@ -1,0 +1,5 @@
+Put network settings from NAT to bridged adapter in Virtualbox settings for that machine.
+
+scp file alumno@ip.de.la.virtualbox:path/to/dir (manda file a path/to/dir)
+
+scp alumno@ip.de.la.virtualbox:path/to/file . (copia path/to/file a este directorio)
